@@ -1,0 +1,15 @@
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\SimpleTools.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\SimpleTools.pdb
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\ReLogic.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Terraria.exe
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Terraria.pdb
+C:\Users\osumf\source\repos\SimpleTools\obj\Debug\SimpleTools.csproj.CoreCompileInputs.cache
+C:\Users\osumf\source\repos\SimpleTools\obj\Debug\SimpleTools.dll
+C:\Users\osumf\source\repos\SimpleTools\obj\Debug\SimpleTools.pdb
+C:\Users\osumf\source\repos\SimpleTools\obj\Debug\SimpleTools.csprojResolveAssemblyReference.cache
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osumf\source\repos\SimpleTools\bin\Debug\Newtonsoft.Json.xml
